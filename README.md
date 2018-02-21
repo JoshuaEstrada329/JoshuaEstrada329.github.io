@@ -25,11 +25,11 @@ Syntax highlighted code block
 
  and ![Image](src)
 ```
-### Projects
-[Common Factors](https://github.com/JoshuaEstrada329/CommonFactors/)
-[Maze AI](https://github.com/JoshuaEstrada329/MazeAI/)
-[Huffman Encoding](https://github.com/JoshuaEstrada329/Huffman-Encoding/)
-[Character Counting C++](https://github.com/JoshuaEstrada329/CharacterCounting/)
+## Projects
+###[Common Factors](https://github.com/JoshuaEstrada329/CommonFactors/)
+###[Maze AI](https://github.com/JoshuaEstrada329/MazeAI/)
+###[Huffman Encoding](https://github.com/JoshuaEstrada329/Huffman-Encoding/)
+###[Character Counting C++](https://github.com/JoshuaEstrada329/CharacterCounting/)
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
