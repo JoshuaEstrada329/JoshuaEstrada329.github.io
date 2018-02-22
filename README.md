@@ -27,9 +27,13 @@ Syntax highlighted code block
 ```
 ## Projects
 ### [Common Factors](https://joshuaestrada329.github.io/CommonFactors/)
+A simple recursive program that takes two numbers and finds the Greatest Common Factor and the Least Common Factor.
 ### [Maze AI](https://joshuaestrada329.github.io/MazeAI/)
+Using a depth first search to solve a module maze. Displays solution and paths to the screen
 ### [Huffman Encoding](https://joshuaestrada329.github.io/Huffman-Encoding/)
+Compresses and decompresses a given file using huffman encoding algorithm. 
 ### [Character Counting C++](https://joshuaestrada329.github.io/CharacterCounting/)
+Counts the ASCII characters in the given input file and outputs it to the given output file
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
