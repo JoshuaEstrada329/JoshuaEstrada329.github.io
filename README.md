@@ -16,7 +16,7 @@ Compresses and decompresses a given file using huffman encoding algorithm.
 Counts the ASCII characters in the given input file and outputs it to the given output file
 
 
-### Contact
+## Contact
 You can contact me through my email: jestrad1234@gmail.com if you have any other questions or concerns.
 
 Thank you for looking at my page!
